@@ -1,0 +1,2 @@
+<input type="file" id="mergeInput" accept="application/pdf" multiple />
+<button onclick="mergePDFs()">Merge PDFs</button>
